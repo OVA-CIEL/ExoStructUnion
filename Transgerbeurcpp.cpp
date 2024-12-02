@@ -68,5 +68,7 @@ int main()
 	tabCasier[0] = C1;
 	tabCasier[1] = C2;
 
+	cout << " " << sizeof(C2) << " " << sizeof(C1) << " " << sizeof(tabCasier) << " " << sizeof(cont);
+
 	return(0);
 }
